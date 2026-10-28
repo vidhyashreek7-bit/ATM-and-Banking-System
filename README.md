@@ -129,27 +129,38 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 # UML DIAGRAMS
 1.Use case Diagram:
+
 <img width="918" height="745" alt="image" src="https://github.com/user-attachments/assets/5e5da5fb-2606-4ede-a735-62525bc8aad7" />
 
 
+
 2.Class Diagram:
+
 <img width="863" height="678" alt="image" src="https://github.com/user-attachments/assets/734a82f8-c37d-4932-aef9-307f808f15a0" />
 
 
 3.Activity Diagram:
+
 <img width="680" height="854" alt="image" src="https://github.com/user-attachments/assets/a79720ce-2605-4ee0-bbec-94045cbc0a57" />
 
 
+
 4.Sequence Diagram:
+
 <img width="909" height="616" alt="image" src="https://github.com/user-attachments/assets/b5826ce7-0f4f-449c-8a97-551c2f4eb4b0" />
 
 
+
 5.Communication Diagram:
+
 <img width="1010" height="561" alt="image" src="https://github.com/user-attachments/assets/9842af9c-fb8a-46e6-a143-c7c9ceb688d8" />
 
 
+
 6.Package Diagram:
+
 <img width="628" height="335" alt="image" src="https://github.com/user-attachments/assets/bf8b8048-bc23-43f6-9cbf-2461541731bd" />
+
 
 
 
